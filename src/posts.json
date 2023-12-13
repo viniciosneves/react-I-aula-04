@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "A Magia dos Fiordes Noruegueses",
+        "img": "/blog/blog-thumbs-1.png",
+        "tempoDeLeitura": "4 minutos",
+        "resumo": "Uma jornada fotográfica pelos fiordes noruegueses, explorando suas águas cristalinas e paisagens de tirar o fôlego.",
+        "corpoDoPost": "# A Magia dos Fiordes Noruegueses\n\n## Introdução\nDescubra a beleza única dos fiordes noruegueses e como capturá-los na sua lente.\n\n## Melhores Pontos para Fotografia\nDicas sobre os melhores locais para tirar fotos espetaculares dos fiordes.\n\n## Equipamento Recomendado\nConselhos sobre o melhor equipamento para fotografar em condições variadas de luz e clima.\n\n## Conclusão\nReflexões sobre a beleza natural da Noruega e a arte da fotografia de paisagem."
+    },
+    {
+        "id": 2,
+        "titulo": "Capturando a Essência de Tóquio à Noite",
+        "img": "/blog/blog-thumbs-2.png",
+        "tempoDeLeitura": "5 minutos",
+        "resumo": "Explorando a vibrante vida noturna de Tóquio e suas técnicas de fotografia noturna.",
+        "corpoDoPost": "# Capturando a Essência de Tóquio à Noite\n\n## Introdução\nUm guia para capturar a vibrante vida noturna de Tóquio através de sua câmera.\n\n## Fotografia de Rua Noturna\nDicas para capturar as luzes e o movimento das ruas de Tóquio à noite.\n\n## Locais Emblemáticos\nOs melhores pontos da cidade para fotografias noturnas memoráveis.\n\n## Conclusão\nA importância de se adaptar às condições noturnas e como isso pode melhorar suas habilidades fotográficas."
+    },
+    {
+        "id": 3,
+        "titulo": "Aventuras Fotográficas no Deserto do Saara",
+        "img": "/blog/blog-thumbs-3.png",
+        "tempoDeLeitura": "6 minutos",
+        "resumo": "Dicas e experiências de fotografia no deserto, capturando a vastidão e a beleza do Saara.",
+        "corpoDoPost": "# Aventuras Fotográficas no Deserto do Saara\n\n## Introdução\nPrepare-se para uma jornada fotográfica no maior deserto do mundo.\n\n## Desafios da Fotografia no Deserto\nComo enfrentar os desafios únicos de fotografar em um ambiente desértico.\n\n## Capturando Dunas e Oásis\nTécnicas para capturar a beleza singular das dunas de areia e oásis.\n\n## Conclusão\nReflexões sobre a serenidade do deserto e a arte de capturar paisagens extensas."
+    },
+    {
+        "id": 4,
+        "titulo": "Maravilhas do Inverno na Lapônia Finlandesa",
+        "img": "/blog/blog-destaque.png",
+        "tempoDeLeitura": "5 minutos",
+        "resumo": "Uma viagem fotográfica pela Lapônia Finlandesa, capturando a magia das luzes do norte e paisagens nevadas.",
+        "corpoDoPost": "# Maravilhas do Inverno na Lapônia Finlandesa\n\n## Introdução\nExperimente a magia do inverno na Lapônia e descubra como fotografar a aurora boreal e paisagens nevadas.\n\n## Caça à Aurora Boreal\nTécnicas para fotografar as luzes do norte no céu invernal.\n\n## Paisagens Nevadas\nDicas para capturar a beleza serena das florestas e aldeias cobertas de neve.\n\n## Conclusão\nReflexões sobre a experiência única de fotografar no extremo norte e a beleza do inverno."
+    },
+    {
+        "id": 5,
+        "titulo": "Maravilhas do Inverno na Lapônia Finlandesa",
+        "img": "/blog/blog-destaque-2.png",
+        "tempoDeLeitura": "5 minutos",
+        "resumo": "Uma viagem fotográfica pela Lapônia Finlandesa, capturando a magia das luzes do norte e paisagens nevadas.",
+        "corpoDoPost": "# Maravilhas do Inverno na Lapônia Finlandesa\n\n## Introdução\nExperimente a magia do inverno na Lapônia e descubra como fotografar a aurora boreal e paisagens nevadas.\n\n## Caça à Aurora Boreal\nTécnicas para fotografar as luzes do norte no céu invernal.\n\n## Paisagens Nevadas\nDicas para capturar a beleza serena das florestas e aldeias cobertas de neve.\n\n## Conclusão\nReflexões sobre a experiência única de fotografar no extremo norte e a beleza do inverno."
+    }
+]

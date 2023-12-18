@@ -18,23 +18,23 @@ const Divisor = styled.li`
 const links = [
     {
         descricao: 'Home',
-        href: '#'
+        href: '/'
     },
     {
         descricao: 'Fotografia',
-        href: '#'
+        href: 'fotografia'
     },
     {
         descricao: 'Sobre',
-        href: '#'
+        href: 'sobre'
     },
     {
         descricao: 'Blog',
-        href: '#'
+        href: 'blog'
     },
     {
         descricao: 'Contato',
-        href: '#'
+        href: 'contato'
     },
 ]
 
@@ -50,7 +50,7 @@ const BarraNavegacao = () => {
                     </li>
                     <Divisor />
                     {links.map((link, indice) => <li key={indice}>
-                        <LinkEstilizado href={link.href}>
+                        <LinkEstilizado to={link.href}>
                             {link.descricao}
                         </LinkEstilizado>
                     </li>)}

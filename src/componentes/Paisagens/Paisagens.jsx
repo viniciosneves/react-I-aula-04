@@ -2,6 +2,7 @@ import styled from "styled-components"
 import TituloSecao from "../TituloSecao/TituloSecao"
 import IconeSeta from "../IconeSeta/IconeSeta"
 import BtnLink from "../BtnLink/BtnLink"
+import { useNavigate } from "react-router-dom"
 
 const UlEstilizado = styled.ul`
     display: flex;
@@ -25,6 +26,9 @@ const LegendaEstilizada = styled.small`
 `
 
 const Paisagens = () => {
+
+    const navigate = useNavigate()
+
     return (<section>
         <TituloSecao titulo="Explorar paisagens" legenda="A vida é pra viver" />
         <UlEstilizado>
@@ -54,7 +58,7 @@ const Paisagens = () => {
             </li>
         </UlEstilizado>
         <div>
-            <BtnLink>
+            <BtnLink onClick={() => navigate("fotografia")}>
                 Ver todas as Paisagens <IconeSeta />
             </BtnLink>
         </div>
